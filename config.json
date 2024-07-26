@@ -1,0 +1,5 @@
+{
+    "model": "SpeechRecognition",
+    "language": "es-ES",
+    "llm":"gpt2"
+}
