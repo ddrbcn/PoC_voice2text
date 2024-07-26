@@ -1,5 +1,7 @@
 {
     "model": "SpeechRecognition",
     "language": "es-ES",
-    "llm":"gpt2"
+    "llm":"gpt2",
+    "prompt_template": "Generate a structured radiology report from the following transcribed text:\n\n**Transcribed Text:**\n\n[Insert the transcribed text here]\n\n"
+
 }
