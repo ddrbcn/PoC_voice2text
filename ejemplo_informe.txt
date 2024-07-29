@@ -1,0 +1,48 @@
+Ejemplo de Informe Radiológico con nombres y datos ficticios.
+Título: Informe de Resonancia Magnética de la Columna Lumbar
+Paciente: Juan Pérez
+
+Fecha de Nacimiento: 15/03/1975
+
+Fecha del Estudio: 23/07/2024
+
+Tipo de Estudio: Resonancia Magnética (RM) de la Columna Lumbar
+
+Indicación Clínica: Dolor lumbar persistente y radiculopatía.
+
+Hallazgos:
+Vértebras:
+
+Las vértebras lumbares presentan altura y alineación normal.
+No se observan fracturas ni lesiones óseas focales.
+Discos Intervertebrales:
+
+L1-L2: Disco de altura y señal normales.
+L2-L3: Mínima disminución de la altura del disco con leve protrusión discal sin compromiso significativo del canal espinal o forámenes neurales.
+L3-L4: Protrusión discal central y paramedial derecha con contacto leve a la raíz nerviosa L4 derecha.
+L4-L5: Protrusión discal difusa que contacta y deforma el saco tecal sin estenosis significativa del canal espinal.
+L5-S1: Hernia discal paramedial izquierda que comprime la raíz nerviosa S1 izquierda.
+Canal Espinal y Forámenes Neurales:
+
+No se observan signos de estenosis significativa del canal espinal.
+Los forámenes neurales están bien conservados en todos los niveles examinados, excepto en L5-S1 donde hay compromiso del foramen neural izquierdo.
+Medula Espinal y Cola de Caballo:
+
+No se observan lesiones intramedulares ni extramedulares.
+La cola de caballo presenta morfología y señal normales.
+Partes Blandas:
+
+No se identifican masas ni colecciones líquidas paravertebrales.
+Conclusión:
+Hernia discal paramedial izquierda en L5-S1 con compresión de la raíz nerviosa S1 izquierda.
+Protrusión discal difusa en L4-L5 que contacta y deforma el saco tecal.
+Protrusión discal central y paramedial derecha en L3-L4 con contacto leve a la raíz nerviosa L4 derecha.
+Leve disminución de la altura del disco L2-L3 con protrusión discal mínima.
+Recomendaciones:
+Se sugiere correlación clínica y evaluación por un especialista en columna vertebral. Considerar opciones de manejo conservador o quirúrgico según la evolución clínica del paciente y la persistencia de los síntomas.
+
+Firma:
+Dr. María González
+Radióloga Especialista
+Hospital General
+
